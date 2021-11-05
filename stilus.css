@@ -1,0 +1,12 @@
+@charset "Utf-8";
+
+main{
+    width:80%;
+    margin: auto;
+    background-color:brown;
+}
+Header{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}

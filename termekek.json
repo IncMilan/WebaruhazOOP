@@ -1,0 +1,45 @@
+[
+    {
+        "nev": "Nutri Express",
+        "leiras": "Kifogytam a promptokból XD",
+        "ar": 15999,
+        "kep": "kepek/kep_1.jpg"
+    },
+    {
+        "nev": "Smootie Maker",
+        "leiras": "Minőségi Itókák Akár percek alatt!",
+        "ar": 17999,
+        "kep": "kepek/kep_2.jpg"
+    },
+    {
+        "nev": "Core Max Fitness Gép",
+        "leiras": "Kockahas Akár 10 nap alatt!",
+        "ar": 24999,
+        "kep": "kepek/kep_3.jpg"
+    },
+    {
+        "nev": "Clean MAX",
+        "leiras": "A Kosznak Esélye sem lesz!",
+        "ar": 18999,
+        "kep": "kepek/kep_4.jpg"
+    },
+    {
+        "nev": "Hot Plate Elektromos Sepenyő",
+        "leiras": "Süssön minőségi életleket Percek alatt!",
+        "ar": 19999,
+        "kep": "kepek/kep_5.jpg"
+    },
+    {
+        "nev": "StarlyF Fast Heater",
+        "leiras": "Szobák és más helyek felmelegítésére!",
+        "ar": 12999,
+        "kep": "kepek/kep_6.jpg"
+    },
+    {
+        "nev": "PaintZoom",
+        "leiras": "Fessen ki bármilyen felületet Másodpercek alatt!",
+        "ar": 23999,
+       "kep": "kepek/kep_7.jpg"
+    }
+ 
+]
